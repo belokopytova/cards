@@ -1,3 +1,5 @@
+[![Deploy static content to Pages](https://github.com/belokopytova/cards/actions/workflows/web.yml/badge.svg)](https://github.com/belokopytova/cards/actions/workflows/web.yml)
+
 Карточки
 ===
 
